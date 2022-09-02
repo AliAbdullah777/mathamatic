@@ -17,15 +17,15 @@ int main ()
         break;
 
     case '-':
-        cout << "The Answer of " << num << " - " <<num2 << " = "<< num + num2<<endl;
+        cout << "The Answer of " << num << " - " <<num2 << " = "<< num - num2<<endl;
         break;
 
     case '*':
-        cout << "The Answer of " << num << " * " <<num2 << " = "<< num + num2 <<endl; 
+        cout << "The Answer of " << num << " * " <<num2 << " = "<< num * num2 <<endl; 
         break;
 
     case '/':  
-        cout << "The Answer of " << num << " / " << num2 << " = "<< num + num2 <<endl; 
+        cout << "The Answer of " << num << " / " << num2 << " = "<< num / num2 <<endl; 
         break;
 
 
